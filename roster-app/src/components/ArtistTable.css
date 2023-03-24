@@ -1,0 +1,12 @@
+.centered-table {
+  display: flex;
+  justify-content: center;
+}
+
+.table-container {
+  width: 90%;
+}
+
+.completed {
+  background-color: #f2f2f2;
+}
